@@ -56,3 +56,4 @@ cv.imshow('Rectangle', blank)
 
 # Wait indefinitely until a key is pressed
 cv.waitKey(0)
+
